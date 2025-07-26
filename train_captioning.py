@@ -13,7 +13,7 @@ from model.captioning_model import CaptioningModel
 # === Paths ===
 image_dir = r"C:\Users\RIYA GUPTA\Documents\Fliker8k\Images"
 caption_file = r"C:\Users\RIYA GUPTA\Documents\Fliker8k\captions.txt"
-model_save_path = "captioning_model_final.pth"
+model_save_path = r"C:\Users\RIYA GUPTA\Documents\Image_captioning_segmentaion\captioning_model_final.pth"
 
 # === Hyperparameters ===
 batch_size = 64
