@@ -10,7 +10,7 @@ from data_loader_segment import CocoSegmentationDataset
 
 # === Paths ===
 image_dir = r"C:\Users\RIYA GUPTA\Documents\coco\train2017"
-ann_path = r"datasets\COCO2017\annotations\instances_train2017.json"
+ann_path = r"C:\Users\RIYA GUPTA\Documents\coco\instances_train2017.json"
 model_save_path = "segmentation_model_epoch_final.pth"
 
 # === Hyperparameters ===
