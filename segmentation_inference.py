@@ -9,7 +9,7 @@ from model.segmentation_model import SimpleSegmentationModel
 
 # === Paths ===
 model_path = "segmentation_model.pth"
-image_dir = "datasets/COCO2017/images/train2017"
+image_dir = r"C:\Users\RIYA GUPTA\Documents\coco\Dataset\train"
 output_dir = "segmentation_outputs"
 os.makedirs(output_dir, exist_ok=True)
 
