@@ -11,8 +11,8 @@ from data_loader_caption import Flickr8kDataset  # Change 'Flickr8kDataset' to t
 from model.captioning_model import CaptioningModel
 
 # === Paths ===
-image_dir = r"datasets\Flickr8k\Images"
-caption_file = r"datasets\Flickr8k\captions.txt"
+image_dir = r"C:\Users\RIYA GUPTA\Documents\Fliker8k\Images"
+caption_file = r"C:\Users\RIYA GUPTA\Documents\Fliker8k\captions.txt"
 model_save_path = "captioning_model_final.pth"
 
 # === Hyperparameters ===
