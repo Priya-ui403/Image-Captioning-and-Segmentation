@@ -11,7 +11,7 @@ from data_loader_segment import CocoSegmentationDataset
 # === Paths ===
 image_dir = r"C:\Users\RIYA GUPTA\Documents\coco\train2017"
 ann_path = r"C:\Users\RIYA GUPTA\Documents\coco\instances_train2017.json"
-model_save_path = "segmentation_model_epoch_final.pth"
+model_save_path = r"C:\Users\RIYA GUPTA\Documents\Image_captioning_segmentaion\segmentation_epoch_14.pth"
 
 # === Hyperparameters ===
 batch_size = 4
